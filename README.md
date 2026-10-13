@@ -1,1 +1,1 @@
-# PlanB-HCI
+# PlanBee 🐝 - Plan smart, buzz around
